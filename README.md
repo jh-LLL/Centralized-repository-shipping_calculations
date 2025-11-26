@@ -3,6 +3,7 @@ Please consider the below factors while contributing
 
 Code Style:
 Maintain a consistent code style for readability.
+This is a test update for PR.
 
 Documentation:
 Ensure well-documented code for effective collaboration.
